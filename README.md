@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on **Telegram and Twitch**
 - 🤔 I’m looking for help with **DjangoRest Documentation**
 - 💬 Ask me about **Django** or any tech related stuff.
-- 📫 How to reach me: *[<img src="https://img.shields.io/badge/-@Sad_Manners-0088CC?style=flat&logo=Telegram&logoColor=white">](https://t.me/Sad_Manners), [<img src="https://img.shields.io/badge/-Superpon4ik-8e00ff?style=flat&logo=Twitch&logoColor=white">](https://www.twitch.tv/superpon4ik)*
+- 📫 How to reach me: *[<img src="https://img.shields.io/badge/-@Sad_Manners-0088CC?style=flat&logo=Telegram&logoColor=white">](https://t.me/Sad_Manners), [<img src="https://img.shields.io/badge/-Superpon4ik-8e00ff?style=flat&logo=Twitch&logoColor=white">](https://www.twitch.tv/superpon4ik), <img alt="Static Badge" src="https://img.shields.io/badge/py%40moldavskiy.ru-yellow?style=flat&color=ffff52&link=mailto%3Apy%40moldavskiy.ru">*
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The study of programming started with *AI* questions and I continue to learn together
 
