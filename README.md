@@ -6,7 +6,10 @@
 - 👯 I’m looking to collaborate on **Telegram and Twitch**
 - 🤔 I’m looking for help with **DjangoRest Documentation**
 - 💬 Ask me about **Django** or any tech related stuff.
-- 📫 How to reach me: *[<img src="https://img.shields.io/badge/-@Sad_Manners-0088CC?style=flat&logo=Telegram&logoColor=white">](https://t.me/Sad_Manners), [<img src="https://img.shields.io/badge/-Superpon4ik-8e00ff?style=flat&logo=Twitch&logoColor=white">](https://www.twitch.tv/superpon4ik), <img alt="Static Badge" src="https://img.shields.io/badge/py%40moldavskiy.ru-yellow?style=flat&color=ffff52&link=mailto%3Apy%40moldavskiy.ru">*
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/-@Sad_Manners-0088CC?style=flat&logo=Telegram&logoColor=white">](https://t.me/Sad_Manners), [<img src="https://img.shields.io/badge/-Superpon4ik-8e00ff?style=flat&logo=Twitch&logoColor=white">](https://www.twitch.tv/superpon4ik), <a href="mailto:py@moldavskiy.ru">
+  <img alt="Static Badge" src="https://img.shields.io/badge/py%40moldavskiy.ru-ffff52">
+</a>
+
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The study of programming started with *AI* questions and I continue to learn together
@@ -18,3 +21,5 @@
 <img src="https://camo.githubusercontent.com/ee789fdcb588501cae8eade82ac9ed8bbd78069afb20ada7927c4764432fc40f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"> <img src="https://camo.githubusercontent.com/ef6cf50bf9b90b26f298f3619057eb8b436363088459478449a6335fa8fe2184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"> [<img src="https://github.com/NoBadVibes79/NoBadVibes79/assets/130629231/6b5add86-5926-4c3a-954a-2e4eff658f7b">](https://code.visualstudio.com/) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ## 🔭 Some of my Github Public Stats
 <img src="https://github-readme-stats.vercel.app/api?username=NoBadVibes79&&show_icons=true&title_color=ffb8c6&icon_color=bb2acf&text_color=00cfff&bg_color=151515">
+
+<img src="https://komarev.com/ghpvc/?username=NoBadVibes79&style=flat-square&color=blue" alt=""/>
