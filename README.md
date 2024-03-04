@@ -10,8 +10,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/py%40moldavskiy.ru-ffff52">
 </a>
 
-
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: The study of programming started with *AI* questions and I continue to learn together
 
 ## ⚡ Technologies
