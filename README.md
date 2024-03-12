@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with **DjangoRest Documentation**
 - 💬 Ask me about **Django** or any tech related stuff.
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/-@Sad_Manners-0088CC?style=flat&logo=Telegram&logoColor=white">](https://t.me/Sad_Manners) <a href="mailto:py@moldavskiy.ru">
-  <img alt="Static Badge" src="https://img.shields.io/badge/py%40moldavskiy.ru-ffff52">
-</a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/py%40moldavskiy.ru-ffff52"></a>
 - ⚡ Fun fact: The study of programming started with *AI* questions and I continue to learn together
 
 ## ⚡ Technologies
