@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Django Portfolio.**
 - 🚀 I use daily: **Python, Git, Bash, VS Code.**
-- 🌱 I’m currently learning **Async Programming.**
+- 🌱 I’m currently learning **Async Programming**, **Aiogram.**
 - 👯 I’m looking to collaborate on **Telegram and Twitch**
 - 🤔 I’m looking for help with **DjangoRest Documentation**
 - 💬 Ask me about **Django** or any tech related stuff.
