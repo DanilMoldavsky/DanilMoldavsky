@@ -20,10 +20,10 @@
 [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/NoBadVibes79) [<img src="https://img.shields.io/badge/-Superpon4ik-8e00ff?style=flat&logo=Twitch&logoColor=white">](https://www.twitch.tv/superpon4ik)
 
 ## 🔭 Some of my Github Public Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NoBadVibes79&&show_icons=true&title_color=ffb8c6&icon_color=bb2acf&text_color=00cfff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=DanilMoldavsky&&show_icons=true&title_color=ffb8c6&icon_color=bb2acf&text_color=00cfff&bg_color=151515">
 
 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVkeXk2d2ZhZ3djdm5ybm9ya2gwNnA2OXJkMHE4OGlxNjBpdXFsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ewlKbYV2NmiZRZbh3/giphy.gif" width="100"/>  ***I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)***
 
-<img src="https://komarev.com/ghpvc/?username=NoBadVibes79&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=DanilMoldavsky&style=flat-square&color=blue" alt=""/>
