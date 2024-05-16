@@ -22,7 +22,7 @@
 ## 🔭 Some of my Github Public Stats
 <img src="https://github-readme-stats.vercel.app/api?username=DanilMoldavsky&&show_icons=true&title_color=ffb8c6&icon_color=bb2acf&text_color=00cfff&bg_color=151515">
 
-
+# Beacuse it`s free
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVkeXk2d2ZhZ3djdm5ybm9ya2gwNnA2OXJkMHE4OGlxNjBpdXFsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ewlKbYV2NmiZRZbh3/giphy.gif" width="100"/>  ***I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)***
 
